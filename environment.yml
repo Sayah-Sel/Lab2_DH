@@ -10,3 +10,4 @@ dependencies:
   - ipympl
   - ipywidgets
   - pandas
+  - opencv
