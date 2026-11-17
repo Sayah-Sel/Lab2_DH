@@ -1,0 +1,12 @@
+name: practical-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab>=4.2
+  - numpy
+  - scipy
+  - matplotlib
+  - ipympl
+  - ipywidgets
+  - pandas
